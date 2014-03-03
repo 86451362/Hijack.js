@@ -15,3 +15,7 @@ Hijack.js defines two global functions:
 `hijack(url)`: Simply pass a url. Done.
 
 `Hijack(url)`: Constructor function. Use it to overwrite any prototype properties.
+
+### Demo
+
+The `demo.html` is hosted at [github.io](http://jgillich.github.io/Hijack.js/demo.html).
